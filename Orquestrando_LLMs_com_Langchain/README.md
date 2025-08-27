@@ -1,7 +1,3 @@
-<img width="991" alt="image" src="https://github.com/user-attachments/assets/fb8cfae2-ba6f-4348-987e-04ab46d7bfd0">
-
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
 # Titulo do projeto
 
 4241 - Python e Gemini: Orquestrando LLMs com LangChain
